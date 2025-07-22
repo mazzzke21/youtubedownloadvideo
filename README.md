@@ -1,5 +1,5 @@
 # YouTube 1080p MP4 Downloader
-[![downloads](https://img.shields.io/badge/downloads-1.7M-brightgreen)](https://github.com/yourusername/yt_downloader/releases)
+[![downloads](https://img.shields.io/badge/downloads-1K-brightgreen)](https://github.com/yourusername/yt_downloader/releases)
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/yt_downloader/actions)
 
 A simple GUI application for downloading YouTube videos in MP4 (H.264) with audio, supporting quality selection (2160p, 1440p, 1080p, etc.), download folder selection, progress bar, and speed display.
