@@ -24,7 +24,7 @@ A simple GUI application for downloading YouTube videos in MP4 (H.264) with audi
 ## Installation
 1. Clone the repository or download the script:
    ```sh
-   git clone https://github.com/yourusername/yt_downloader.git
+   git clone https://github.com/mazzzke21/youtubedownloadvideo
    cd yt_downloader
    ```
 2. Install dependencies:
