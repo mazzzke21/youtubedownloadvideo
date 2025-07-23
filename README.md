@@ -1,6 +1,7 @@
 # YouTube 1080p MP4 Downloader
 [![downloads](https://img.shields.io/badge/downloads-1K-brightgreen)](https://github.com/mazzzke21/youtubedownloadvideo/releases)
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/mazzzke21/youtubedownloadvideo/actions)
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-brightgreen?logo=money)](https://www.donationalerts.com/r/chelink)
 
 A simple GUI application for downloading YouTube videos in MP4 (H.264) with audio, supporting quality selection (2160p, 1440p, 1080p, etc.), download folder selection, progress bar, and speed display.
 
